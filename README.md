@@ -135,15 +135,21 @@ The highest percentage though is if they go to regular restaurants more than onc
 To achieve the highest acceptance rate for bar and coffee house coupons, we should offer bar coupons if the following conditions are met:
 
 *- goes to bar for more than 1 per month*
+
 *- does not have a kid as a passenger*
+
 *- income is more than 50k*
+
 *- age is older than 25*
+
 *- occupation is not farming, fishing, or forrestry*
 
 And for coffee house coupons, the following conditons should be present:
 
 *- age is 20*
+
 *- goes to a regular restaurants more than once per month*
+
 *- time left for coupon to expire is at least 1 day*
 
 
