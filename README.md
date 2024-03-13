@@ -43,5 +43,43 @@ What's the best way to recommend bar and coffee house and get a high probablilit
 
 ## Analysis and Recommendations
 
-Figure 1
+### Bar Coupons Analysis
+
+Figure 1 - Acceptance Rate of All Coupons
 ![alt text](https://github.com/cdungca/coupon-acceptance/blob/main/images/acceptance_rate_all.png "Acceptance Rate of All Coupons")
+
+Figure 2 - Acceptance Rate of Bar Coupons
+![alt text](https://github.com/cdungca/coupon-acceptance/blob/main/images/acceptance_rate_barcoupons.png "Acceptance Rate of Bar Coupons")
+
+Figure 3 - Acceptance Rate of Bar Coupons
+![alt text](https://github.com/cdungca/coupon-acceptance/blob/main/images/acceptance_rate_barcoupons.png "Acceptance Rate of Bar Coupons")
+
+Figure 4 - Acceptance Rate Based On Bar Visits
+![alt text](https://github.com/cdungca/coupon-acceptance/blob/main/images/acceptance_rate_barvisits.png "Acceptance Rate Based On Bar Visits")
+
+Figure 5 - Compare Acceptance Rate Between 2 Scenarios
+![alt text](https://github.com/cdungca/coupon-acceptance/blob/main/images/acceptance_rate_barscene1.png "Compare Acceptance Rate Between 2 Scenarios")
+
+Figure 6 - Compare Acceptance Rate Between 2 Scenarios
+![alt text](https://github.com/cdungca/coupon-acceptance/blob/main/images/acceptance_rate_barscene2.png "Compare Acceptance Rate Between 2 Scenarios")
+
+Figure 7 - Compare Acceptance Rate Between 3 Scenarios
+![alt text](https://github.com/cdungca/coupon-acceptance/blob/main/images/acceptance_rate_barscene3.png "Compare Acceptance Rate Between 3 Scenarios")
+
+### Coffee Coupons Analysis
+
+Figure 1 - Acceptance Rate Based On Gender
+![alt text](https://github.com/cdungca/coupon-acceptance/blob/main/images/acceptance_rate_coffeegender.png "Acceptance Rate Based On Gender")
+
+Figure 2 - Acceptance Rate Based On Age
+![alt text](https://github.com/cdungca/coupon-acceptance/blob/main/images/acceptance_rate_couponexpire.png "Acceptance Rate Based On Coupon Expiration")
+
+Figure 3 - Acceptance Rate Based On Coupon Expiration
+![alt text](https://github.com/cdungca/coupon-acceptance/blob/main/images/acceptance_rate_age.png "Acceptance Rate Based On Age")
+
+Figure 4 - Acceptance Rate Based On Income
+![alt text](https://github.com/cdungca/coupon-acceptance/blob/main/images/acceptance_rate_income.png "Acceptance Rate Based On Income")
+
+Figure 5 - Compare Acceptance Rate Between 3 Scenarios
+![alt text](https://github.com/cdungca/coupon-acceptance/blob/main/images/acceptance_rate_coffeescene1.png "Compare Acceptance Rate Between 3 Scenarios")
+
